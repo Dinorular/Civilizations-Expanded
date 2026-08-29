@@ -34,5 +34,20 @@
 		"uniqueName": "The First Empire",
 		"uniques": ["-25% Unhappiness in all Cities"],
 		"cities": ["Akkad","Agade","Kish","Ur","Uruk","Nippur","Lagash","Eridu","Sippar","Mari","Eshunna","Adab"]
+	},
+	{
+		"name": ,
+		"leaderName": ,
+		"adjective": ,
+		"startBias": ,
+		"preferredVictoryType": ,
+		"personality": ,
+
+		"startingIntroPart1": ,
+
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0],
+		"uniqueName": ,
+		"cities": ["Home", "Home Too"]
 	}
 ]
