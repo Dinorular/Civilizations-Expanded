@@ -36,18 +36,18 @@
 		"cities": ["Akkad","Agade","Kish","Ur","Uruk","Nippur","Lagash","Eridu","Sippar","Mari","Eshunna","Adab"]
 	},
 	{
-		"name": "Edo Japan",
-		"leaderName": "Tokugawa Ieyasu",
-		"adjective": "Edo Japanese",
-		"startBias": ,
-		"preferredVictoryType": ,
+		"name": "Mali",
+		"leaderName": "Mansa Musa",
+		"adjective": "Malian",
+		"startBias": "Desert",
+		"preferredVictoryType": "Cultural",
 		"personality": ,
 
 		"startingIntroPart1": ,
 
-		"outerColor": [255,255,255],
-		"innerColor": [0,0,0],
-		"uniqueName": ,
-		"cities": ["Home", "Home Too"]
+		"outerColor": [200,200,0],
+		"innerColor": [100,100,225],
+		"uniqueName": "Benevolence",
+		"cities": ["Timbuktu", "Timbuktu"]
 	}
 ]
