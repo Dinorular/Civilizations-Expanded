@@ -6,10 +6,20 @@
         "Military": 8,
         "Aggressive": 6,
         "War": 8,
-        "Commerce": 2,
-        "Diplomacy": 2,
-        "Loyal": 7,
+        "Diplomacy": 5,
         "Expansion": 10,
-        "DenounceWillingmess": 2
+
+        "priorities": {
+            "Tradition": 8,
+            "Liberty" : 4
+            "Honor": 8,
+            "Commerce": 3,
+            "Piety" 3,
+            "Patronage" 5,
+            "Rationalism": 2,
+            "Freedom": 4,
+            "Autocracy": 4,
+            "Order" : 4
+        }
     }
 ]
