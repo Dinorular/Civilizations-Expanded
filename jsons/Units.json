@@ -19,11 +19,11 @@
 		"unitType": "Mounted",
 		"uniqueTo": "Akkad",
 		"replaces": "Chariot Archer",
-		"movement": 3,
+		"movement": 4,
 		"strength": 15,
-		"rangedStrength": 8,
+		"rangedStrength": 12,
 		"range": 2,
-		"cost": 60,
+		"cost": 70,
 		"requiredTech": "The Wheel",
 		"requiredResource": "Horses"
 	}
