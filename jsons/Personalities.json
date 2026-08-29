@@ -3,9 +3,8 @@
         "name": "Sargon",
         "preferredVictoryType": "Domination",
 
-        "Military": 8,
-        "Aggressive": 6,
-        "War": 8,
+        "Military": 5,
+        "War": 5,
         "Diplomacy": 5,
         "Expansion": 10,
 
