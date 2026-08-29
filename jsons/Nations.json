@@ -41,9 +41,9 @@
 		"adjective": "Malian",
 		"startBias": "Desert",
 		"preferredVictoryType": "Cultural",
-		"personality": ,
+		"personality": "Sargon",
 
-		"startingIntroPart1": ,
+		"startingIntroPart1": "O' Sultan Mansa Musa..",
 
 		"outerColor": [200,200,0],
 		"innerColor": [100,100,225],
