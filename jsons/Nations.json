@@ -36,9 +36,9 @@
 		"cities": ["Akkad","Agade","Kish","Ur","Uruk","Nippur","Lagash","Eridu","Sippar","Mari","Eshunna","Adab"]
 	},
 	{
-		"name": ,
-		"leaderName": ,
-		"adjective": ,
+		"name": "Edo Japan",
+		"leaderName": "Tokugawa Ieyasu",
+		"adjective": "Edo Japanese",
 		"startBias": ,
 		"preferredVictoryType": ,
 		"personality": ,
