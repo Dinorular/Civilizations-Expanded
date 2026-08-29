@@ -20,10 +20,10 @@
 		"uniqueTo": "Akkad",
 		"replaces": "Chariot Archer",
 		"movement": 3,
-		"strength": 10,
+		"strength": 15,
 		"rangedStrength": 8,
 		"range": 2,
-		"cost": 55,
+		"cost": 60,
 		"requiredTech": "The Wheel",
 		"requiredResource": "Horses"
 	}
