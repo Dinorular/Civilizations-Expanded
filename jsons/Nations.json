@@ -30,7 +30,8 @@
 
 		"outerColor": [200,200,200],
 		"innerColor": [255,100, 0],
-		"unique": "The First Empire",
+		"uniqueName": "The First Empire",
+		"uniques": ["-25% Unhappiness in all Cities"],
 		"cities": ["Akkad","Agade","Kish","Ur","Uruk","Nippur","Lagash","Eridu","Sippar","Mari","Eshunna","Adab"]
 	}
 ]
