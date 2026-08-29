@@ -13,5 +13,18 @@
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
+	},
+	{
+		"name": "War Cart",
+		"unitType": "Mounted",
+		"uniqueTo": "Akkad",
+		"replaces": "Chariot Archer",
+		"movement": 3,
+		"strength": 10,
+		"rangedStrength": 8,
+		"range": 2,
+		"cost": 55,
+		"requiredTech": "The Wheel",
+		"requiredResource": "Horses"
 	}
 ]
