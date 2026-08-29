@@ -21,7 +21,7 @@
 		"replaces": "Chariot Archer",
 		"movement": 4,
 		"strength": 15,
-		"rangedStrength": 12,
+		"rangedStrength": 20,
 		"range": 2,
 		"cost": 70,
 		"requiredTech": "The Wheel",
