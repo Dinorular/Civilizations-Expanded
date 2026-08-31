@@ -3,10 +3,9 @@
         "name": "Sargon",
         "preferredVictoryType": "Domination",
 
-        "Military": 5,
-        "War": 5,
-        "Diplomacy": 5,
-        "Expansion": 10,
+        "Military": 2,
+        "Diplomacy": 2,
+        "Expansion": 2,
 
         "priorities": {
             "Tradition": 8,
@@ -19,6 +18,23 @@
             "Freedom": 4,
             "Autocracy": 4,
             "Order" : 4
+        }
+    },
+    {
+        "name": "Great Sun",
+        "preferredVictoryType": "Diplomatic",
+
+        "priorities" : {
+            "Tradition": 8,
+            "Liberty": 8,
+            "Honor": 2,
+            "Commerce" : 4,
+            "Piety": 3,
+            "Patronage": 3,
+            "Rationalism": 4,
+            "Freedom": 5,
+            "Autocracy": 3,
+            "Order": 3
         }
     }
 ]
