@@ -39,7 +39,7 @@
 		"name": "Mississippi",
 		"leaderName": "Great Sun",
 		"adjective": "Mississippian",
-		"startBias": "River","Hill",
+		"startBias": ["River","Hill"],
 		"preferredVictoryType": "Diplomatic",
 
 		"startingIntroPart1": "The Great Sun shall rise over the mounds and rivesrs of Mississippi.",
