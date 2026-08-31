@@ -29,23 +29,24 @@
 		"denounced": "Watch your tongue..",
 		"declaringfriendship": "We shall be friends!",
 
-		"outerColor": [200,200,200],
+		"outerColor": [255,255,255],
 		"innerColor": [255,100, 0],
 		"uniqueName": "The First Empire",
 		"uniques": ["-25% Unhappiness in all Cities"],
 		"cities": ["Akkad","Agade","Kish","Ur","Uruk","Nippur","Lagash","Eridu","Sippar","Mari","Eshunna","Adab"]
 	},
 	{
-		"name": "Mali",
-		"leaderName": "Mansa Musa",
-		"adjective": "Malian",
-		"preferredVictoryType": "Cultural",
+		"name": "Mississippi",
+		"leaderName": "Great Sun",
+		"adjective": "Mississippian",
+		"startBias": "River","Hill",
+		"preferredVictoryType": "Diplomatic",
 
-		"startingIntroPart1": "O' Sultan Mansa Musa..",
+		"startingIntroPart1": "The Great Sun shall rise over the mounds and rivesrs of Mississippi.",
 
-		"outerColor": [200,200,0],
-		"innerColor": [100,100,225],
-		"uniqueName": "Benevolence",
-		"cities": ["Timbuktu", "Timbuktu"]
+		"outerColor": [100,100,100],
+		"innerColor": [200,200,0],
+		"uniqueName": "Mound Civilization",
+		"cities": ["Cahokia", "Mississipi"]
 	}
 ]
