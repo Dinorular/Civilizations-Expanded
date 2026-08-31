@@ -33,7 +33,8 @@
 		"innerColor": [255,100, 0],
 		"uniqueName": "The First Empire",
 		"uniques": [
-			"-25% Unhappiness in all Cities"
+			"-25% Unhappiness in all Cities",
+			"[+3 Gold]"
 		],
 		"cities": ["Akkad","Agade","Kish","Ur","Uruk","Nippur","Lagash","Eridu","Sippar","Mari","Eshunna","Adab"]
 	},
@@ -47,8 +48,8 @@
 
 		"startingIntroPart1": "The Great Sun shall rise over the mounds and rivesrs of Mississippi.",
 
-		"outerColor": [70,70,70],
-		"innerColor": [250,0,250],
+		"outerColor": [100,100,100],
+		"innerColor": [200,0,200],
 		"uniqueName": "The Culture of Mississippi",
 		"uniques": [
 			"[+1 Food] from [Hill] tiles",
