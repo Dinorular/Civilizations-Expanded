@@ -17,10 +17,12 @@
 		"replaces": "Shrine",
 		"uniqueTo": "Akkad",
 		"cost": 30,
-		"hurryCostModifier": 100,
+		"hurryCostModifier": 90,
 		"faith": 1,
 		"food": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"uniques": [
+			"40% of food is carried over after a new citizen is born"
+		],
 		"requiredTech": "Pottery"
 	},
 	{
@@ -28,8 +30,11 @@
 		"replaces": "Monument",
 		"uniqueTo": "Mississippi",
 		"cost" : 20,
-		"hurryCostModifier": 90,
+		"hurryCostModifier": 80,
 		"science": 2,
 		"production": 1,
+		"uniques": [
+			Destroyed when the city is captured
+		]
 	}
 ]
