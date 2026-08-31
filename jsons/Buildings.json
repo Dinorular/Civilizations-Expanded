@@ -27,7 +27,7 @@
 		"name": "Woodhenge",
 		"replaces": "Monument",
 		"uniqueTo": "Mississippi",
-		"cost" : 70,
+		"cost" : 20,
 		"hurryCostModifier": 90,
 		"science": 2,
 		"production": 1,
