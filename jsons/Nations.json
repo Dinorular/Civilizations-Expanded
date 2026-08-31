@@ -41,6 +41,7 @@
 		"adjective": "Mississippian",
 		"startBias": ["River","Hill"],
 		"preferredVictoryType": "Diplomatic",
+		"personality": "Great Sun",
 
 		"startingIntroPart1": "The Great Sun shall rise over the mounds and rivesrs of Mississippi.",
 
