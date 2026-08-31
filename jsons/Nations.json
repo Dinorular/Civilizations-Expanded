@@ -52,8 +52,8 @@
 		"innerColor": [200,0,200],
 		"uniqueName": "The Culture of Mississippi",
 		"uniques": [
-			"[+1 Food] from [Hill] tiles",
-			"[+1 Production] from [River] tiles"
+			"[1 Food] from [Hill] tiles",
+			"[1 Production] from [River] tiles"
 		],
 		"cities": ["Cahokia", "Moundville", "Etowah", "Spiro", "Kincaid", "Emerald", "Eztalan", "Poverty Point"]
 	}
