@@ -22,5 +22,14 @@
 		"food": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Woodhenge",
+		"replaces": "Monument",
+		"uniqueTo": "Mississippi",
+		"cost" : 70,
+		"hurryCostModifier": 90,
+		"science": 2,
+		"production": 1,
 	}
 ]
