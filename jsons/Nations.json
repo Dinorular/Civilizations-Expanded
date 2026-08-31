@@ -45,9 +45,13 @@
 
 		"startingIntroPart1": "The Great Sun shall rise over the mounds and rivesrs of Mississippi.",
 
-		"outerColor": [100,100,100],
-		"innerColor": [200,200,0],
-		"uniqueName": "Mound Civilization",
-		"cities": ["Cahokia", "Mississipi"]
+		"outerColor": [250,0,250],
+		"innerColor": [70,70,70],
+		"uniqueName": "The Culture of Mississippi",
+		"uniques": [
+			"[+1 Food] from [Hill] tiles",
+			"[+1 Production] from [River] tiles"
+		],
+		"cities": ["Cahokia", "Moundville", "Etowah", "Spiro", "Kincaid", "Emerald", "Eztalan", "Poverty Point"]
 	}
 ]
