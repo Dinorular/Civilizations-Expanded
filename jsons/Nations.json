@@ -32,21 +32,23 @@
 		"outerColor": [255,255,255],
 		"innerColor": [255,100, 0],
 		"uniqueName": "The First Empire",
-		"uniques": ["-25% Unhappiness in all Cities"],
+		"uniques": [
+			"-25% Unhappiness in all Cities"
+		],
 		"cities": ["Akkad","Agade","Kish","Ur","Uruk","Nippur","Lagash","Eridu","Sippar","Mari","Eshunna","Adab"]
 	},
 	{
 		"name": "Mississippi",
 		"leaderName": "Great Sun",
 		"adjective": "Mississippian",
-		"startBias": ["River","Hill"],
+		"startBias": ["Hill"],
 		"preferredVictoryType": "Diplomatic",
 		"personality": "Great Sun",
 
 		"startingIntroPart1": "The Great Sun shall rise over the mounds and rivesrs of Mississippi.",
 
-		"outerColor": [250,0,250],
-		"innerColor": [70,70,70],
+		"outerColor": [70,70,70],
+		"innerColor": [250,0,250],
 		"uniqueName": "The Culture of Mississippi",
 		"uniques": [
 			"[+1 Food] from [Hill] tiles",
